@@ -1,7 +1,7 @@
 # discordbot
 ### Clone repository by executing 
 ```sh
-git clone
+git clone https://github.com/Simonsihole/discordbot.git
 ```
 ### Run The Repo by executing on the cmd
 ```sh
