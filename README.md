@@ -1,7 +1,7 @@
 # discordbot
 ### Run The Repo by executing on the cmd
 ```sh
-cd yourdiscodbortfolde
+cd yourdiscodbortfolder
 $npm start
 ```
 If you are using Replit add sever JS then hit run
