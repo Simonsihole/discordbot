@@ -1,4 +1,8 @@
 # discordbot
+### Clone repository by executing 
+```sh
+git clone
+```
 ### Run The Repo by executing on the cmd
 ```sh
 cd yourdiscodbortfolder
